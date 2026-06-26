@@ -43,7 +43,7 @@
 | Project | Description | Repo |
 |---|---|---|
 | **Wellness Health Buddy** | OpenAI-powered AI health chatbot deployed on AWS EKS with full CI/CD pipeline — built in 48 hours | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
-| **ConvoDex** | ConvoDex is an AI-powered chatbot generator that creates custom chatbots for any website. Simply provide a URL, and ConvoDex will crawl, process, and create an embeddable chatbot widget powered by Google Gemini.  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/convodex-marathon-event) |
+| **ConvoDex** | ConvoDex is an AI-powered chatbot generator that creates custom chatbots for any website. Simply provide a URL, and ConvoDex will crawl, process, and create an embeddable chatbot widget powered by Google Gemini.|  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/convodex-marathon-event) |
 
 <br/>
 
