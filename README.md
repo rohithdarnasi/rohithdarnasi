@@ -33,7 +33,8 @@
 
 | Project | Description | Repo |
 |---|---|---|
-| **AWS Cost Optimizer** | Event-driven Lambda + Boto3 tool to detect and purge stale EBS snapshots, reducing cloud wastage automatically | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
+| **AWS Cost Optimizer** | Event-driven Lambda + Boto3 tool to detect and purge stale EBS snapshots, reducing cloud wastage automatically | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/cloud-cost-auditor-web) |
+
 
 <br/>
 
@@ -42,6 +43,7 @@
 | Project | Description | Repo |
 |---|---|---|
 | **Wellness Health Buddy** | OpenAI-powered AI health chatbot deployed on AWS EKS with full CI/CD pipeline — built in 48 hours | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
+| **ConvoDex** | ConvoDex is an AI-powered chatbot generator that creates custom chatbots for any website. Simply provide a URL, and ConvoDex will crawl, process, and create an embeddable chatbot widget powered by Google Gemini.  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/convodex-marathon-event) |
 
 <br/>
 
@@ -49,8 +51,8 @@
 
 | Project | Description | Repo |
 |---|---|---|
-| **Python Project 1** | Short description of what this project does | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
-| **Python Project 2** | Short description of what this project does | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
+| **RD-Pathfinder-Game** | An interactive web app where you draw walls on a grid and watch AI search algorithms find the shortest path in real time | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/RD-Pathfinder-Game) |
+| **AI-Interview-coach** | AI-powered mock technical interview tool for DevOps & Cloud engineers | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/RD-AI-Interview-coach) |
 
 <br/>
 
@@ -58,9 +60,8 @@
 
 | Project | Description | Repo |
 |---|---|---|
-| **JS Project 1** | Short description of what this project does | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
-| **JS Project 2** | Short description of what this project does | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
-| **JS Project 3** | Short description of what this project does | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
+| **AI-Image-Detector** | A transparency-first Chrome Extension designed to help users identify potential AI-generated media | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/RD_AI-Image-Detector) |
+| **RD chat** | A high-security, 1-on-1 end-to-end encrypted (E2EE) messaging dashboard built with Vanilla JavaScript and Firebase Firestore. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/RD_Chat) |
 
 ---
 
