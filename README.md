@@ -3,7 +3,7 @@
 
   <h1>Darnasi Rohith</h1>
   <p><strong>Cloud & DevOps Engineer</strong></p>
-  <p>AWS · GCP · Kubernetes · Terraform · DevSecOps · SRE</p>
+  <p>AWS · GCP · Kubernetes · Terraform · GitOps · DevSecOps · SRE</p>
 
   <br/>
 
@@ -16,14 +16,31 @@
 
 ---
 
+## 👋 About Me
+
+DevOps & Cloud Engineer with 4+ years of experience building secure, automated infrastructure on **AWS** and **GCP** for enterprise clients. I design CI/CD pipelines, provision infrastructure as code, orchestrate Kubernetes workloads, and bake security scanning directly into the delivery pipeline — then keep it all observable with Prometheus, Grafana, and friends.
+
+---
+
 ## 🛠 Tech Stack
 
 | | |
 |---|---|
 | **Cloud & Infrastructure** | ![](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible&perline=6) |
-| **CI/CD & Security** | ![](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&perline=6) |
+| **CI/CD & GitOps** | ![](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&perline=6) |
 | **Observability** | ![](https://skillicons.dev/icons?i=prometheus,grafana&perline=6) |
 | **Languages** | ![](https://skillicons.dev/icons?i=python,js,bash&perline=6) |
+
+<div align="center">
+
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+
+</div>
 
 ---
 
@@ -35,7 +52,6 @@
 |---|---|---|
 | **AWS Cost Optimizer** | Event-driven Lambda + Boto3 tool to detect and purge stale EBS snapshots, reducing cloud wastage automatically | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/cloud-cost-auditor-web) |
 
-
 <br/>
 
 ### 🏆 Hackathon
@@ -43,7 +59,7 @@
 | Project | Description | Repo |
 |---|---|---|
 | **Wellness Health Buddy** | OpenAI-powered AI health chatbot deployed on AWS EKS with full CI/CD pipeline — built in 48 hours | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi) |
-| **ConvoDex** | ConvoDex is an AI-powered chatbot generator that creates custom chatbots for any website. Simply provide a URL, and ConvoDex will crawl, process, and create an embeddable chatbot widget powered by Google Gemini.|  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/convodex-marathon-event) |
+| **ConvoDex** | ConvoDex is an AI-powered chatbot generator that creates custom chatbots for any website. Simply provide a URL, and ConvoDex will crawl, process, and create an embeddable chatbot widget powered by Google Gemini. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/rohithdarnasi/convodex-marathon-event) |
 
 <br/>
 
@@ -91,6 +107,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohithdarnasi&color=58a6ff&style=flat-square&label=Profile+Views)
 
-*Open to collaborations on cloud-native tools, DevSecOps, and FinOps projects*
+*Open to collaborations on cloud-native tools, GitOps, DevSecOps, and FinOps projects*
 
 </div>
